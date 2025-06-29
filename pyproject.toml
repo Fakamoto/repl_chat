@@ -1,6 +1,6 @@
 [project]
 name = "agent-repl-chat"
-version = "0.1.0"
+version = "0.1.1"
 description = "A beautiful terminal chat interface for OpenAI agents"
 readme = "README.md"
 license = {text = "MIT"}

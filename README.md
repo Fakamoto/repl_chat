@@ -82,7 +82,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Changelog
 
-### v0.1.0 (2025-01-XX)
+### v0.1.1 (2025-01-03)
+- Updated README example to use `gpt-4.1-mini` model
+- Enhanced project metadata and documentation
+
+### v0.1.0 (2025-01-03)
 - Initial release
 - Beautiful terminal chat interface
 - Rich markdown support
