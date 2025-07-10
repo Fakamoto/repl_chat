@@ -10,6 +10,7 @@ Usage:
 """
 
 from .chat import start_chat
+from .dspy_chat import start_dspy_chat
 
-__all__ = ["start_chat"]
-__version__ = "0.1.0" 
+__all__ = ["start_chat", "start_dspy_chat"]
+__version__ = "0.2.0" 
